@@ -1,5 +1,5 @@
 # TaskApp
-###para instalar paquetes del cliente
+### para instalar paquetes del cliente
 
 > cd client
 > npm install
