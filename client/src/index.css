@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Fira Sans", sans-serif;
+  overflow-x: hidden;
+}
+
+
+body {
+  background-color: rgb(60, 60, 60);
+  color: #fff;
+  max-width: 100%;
+}
