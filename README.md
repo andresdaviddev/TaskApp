@@ -1,17 +1,17 @@
 # TaskApp
-### para instalar paquetes del cliente
+## instalar paquetes del cliente
 
-> cd client
-> npm install
+### cd client
+### npm install
 
-### para ejecutar el cliente
+## ejecutar el cliente
 
-> npm run dev
+### npm run dev
 
-# para instalar paquetes del servidor
+#" instalar paquetes del servidor
 
-> npm install
+### npm install
 
-### para ejecutar el servidor
+##  ejecutar el servidor
 
->npm run dev
+### npm run dev
