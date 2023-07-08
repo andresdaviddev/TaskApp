@@ -8,7 +8,7 @@
 
 ### npm run dev
 
-#" instalar paquetes del servidor
+# instalar paquetes del servidor
 
 ### npm install
 
