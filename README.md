@@ -1,6 +1,6 @@
 # TaskApp (Aplicación de Tareas)
 
-Esta es una aplicación de tareas que consta de un cliente y un servidor. Sigue las instrucciones a continuación para instalar los paquetes y ejecutar tanto el cliente como el servidor.
+Esta es una aplicación para crear un alista de tareas utilizando mongo db como base de datos
 
 ## Instalar paquetes del cliente
 
