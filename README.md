@@ -1,5 +1,5 @@
-# TaskApp
-## instalar paquetes del cliente
+# TaskApp ( aplicación de tareas)
+``` instalar paquetes del cliente ```
 
 ### cd client
 ### npm install
